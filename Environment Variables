@@ -1,0 +1,4 @@
+Environment Variables
+You need to set your Hugging Face API token. Create a .env file in the root directory and add the following:
+
+HUGGINGFACEHUB_API_TOKEN=your_huggingface_api_token_here
