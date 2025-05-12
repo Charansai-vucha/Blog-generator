@@ -1,0 +1,8 @@
+sentence-transformers==2.2.2
+uvicorn
+ctransformers
+langchain==0.0.184
+python-box
+streamlit
+huggingface-hub==0.22.2
+python-dotenv==1.0.0
